@@ -2,4 +2,4 @@
 
 ## Description 
 
-![](./connecteur-tuyaux.svg)
+![Adaptateur Tuyaux](./export/adapt-tuyaux.svg)
